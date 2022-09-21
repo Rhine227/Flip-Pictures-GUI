@@ -2,6 +2,9 @@ import os
 import cv2 as cv
 import PySimpleGUI as psg
 
+"""STILL NEED TO MAKE GUI
+    """
+
 # Grab the first argument
 input_folder = 'C:/Users/Rhine/faceswap2/Faceswap_Workspace/src/extracted faces/_hist_000_by_face/Flip these/'
 # Grab the second argument
