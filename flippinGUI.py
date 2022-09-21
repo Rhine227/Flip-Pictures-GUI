@@ -24,9 +24,3 @@ for image in os.listdir(input_folder):  # Loop through the input folder
     print(f'Flipping image {count}.....')
 
 print('Task Complete')
-
-
-# img = Image.open(f'{input_folder}{image}')
-# new_name = os.path.splitext(image)[0]
-# Convert them to PNG and save it to new folder
-# img.save(f'{output_folder}{new_name}.png', 'png')
